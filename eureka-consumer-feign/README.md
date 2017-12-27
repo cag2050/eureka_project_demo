@@ -1,0 +1,1 @@
+* 启动后，访问地址：http://localhost:2004/consumer
